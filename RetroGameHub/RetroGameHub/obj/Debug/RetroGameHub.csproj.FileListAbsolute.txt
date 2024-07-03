@@ -1,0 +1,11 @@
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\bin\Debug\RetroGameHub.exe.config
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\bin\Debug\RetroGameHub.exe
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\bin\Debug\RetroGameHub.pdb
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.csproj.AssemblyReference.cache
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.Form1.resources
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.Minesweeper.resources
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.Properties.Resources.resources
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.csproj.GenerateResource.cache
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.csproj.CoreCompileInputs.cache
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.exe
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.pdb
