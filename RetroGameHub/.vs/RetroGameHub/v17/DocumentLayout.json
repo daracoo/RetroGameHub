@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|c:\\users\\darko\\desktop\\retrogamehub\\retrogamehub\\retrogamehub\\t-rex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|solutionrelative:retrogamehub\\t-rex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|c:\\users\\darko\\desktop\\retrogamehub\\retrogamehub\\retrogamehub\\t-rex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|solutionrelative:retrogamehub\\t-rex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\retrogamehub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|solutionrelative:retrogamehub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\retrogamehub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|solutionrelative:retrogamehub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|c:\\users\\darko\\desktop\\retrogamehub\\retrogamehub\\retrogamehub\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|solutionrelative:retrogamehub\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\retrogamehub\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|solutionrelative:retrogamehub\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|c:\\users\\darko\\desktop\\retrogamehub\\retrogamehub\\retrogamehub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|solutionrelative:retrogamehub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\retrogamehub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E7FCD31B-0A34-463D-ADBA-B4BB7C9B2065}|RetroGameHub\\RetroGameHub.csproj|solutionrelative:retrogamehub\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,31 +43,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "T-Rex.cs",
+              "DocumentMoniker": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\T-Rex.cs",
+              "RelativeDocumentMoniker": "RetroGameHub\\T-Rex.cs",
+              "ToolTip": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\T-Rex.cs",
+              "RelativeToolTip": "RetroGameHub\\T-Rex.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwC4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:27:23.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "T-Rex.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\T-Rex.cs",
+              "RelativeDocumentMoniker": "RetroGameHub\\T-Rex.cs",
+              "ToolTip": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\T-Rex.cs [Design]",
+              "RelativeToolTip": "RetroGameHub\\T-Rex.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:17:56.068Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Minesweeper.cs",
               "DocumentMoniker": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\Minesweeper.cs",
               "RelativeDocumentMoniker": "RetroGameHub\\Minesweeper.cs",
               "ToolTip": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\Minesweeper.cs",
               "RelativeToolTip": "RetroGameHub\\Minesweeper.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAwwGEAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T21:09:19.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Minesweeper.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\Minesweeper.cs",
               "RelativeDocumentMoniker": "RetroGameHub\\Minesweeper.cs",
               "ToolTip": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\Minesweeper.cs [Design]",
               "RelativeToolTip": "RetroGameHub\\Minesweeper.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T22:43:40.061Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-03T22:43:40.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\Form1.cs",
               "RelativeDocumentMoniker": "RetroGameHub\\Form1.cs",
@@ -71,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\Form1.cs",
               "RelativeDocumentMoniker": "RetroGameHub\\Form1.cs",
               "ToolTip": "C:\\Users\\Darko\\Desktop\\RetroGameHub\\RetroGameHub\\RetroGameHub\\Form1.cs",
               "RelativeToolTip": "RetroGameHub\\Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA4wB8AAAAfAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwB8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T22:56:17.143Z",
               "EditorCaption": ""
