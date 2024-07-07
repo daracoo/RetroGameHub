@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Memory Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Memory Game.Designer.cs">
+      <DependentUpon>Memory Game.cs</DependentUpon>
+    </Compile>
     <Compile Include="Minesweeper.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +80,9 @@
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Memory Game.resx">
+      <DependentUpon>Memory Game.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Minesweeper.resx">
       <DependentUpon>Minesweeper.cs</DependentUpon>

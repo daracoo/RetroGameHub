@@ -35,11 +35,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnMemory = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnMinesweeper
             // 
-            this.btnMinesweeper.Location = new System.Drawing.Point(141, 159);
+            this.btnMinesweeper.Location = new System.Drawing.Point(141, 148);
             this.btnMinesweeper.Name = "btnMinesweeper";
             this.btnMinesweeper.Size = new System.Drawing.Size(148, 41);
             this.btnMinesweeper.TabIndex = 0;
@@ -49,7 +50,7 @@
             // 
             // btnDino
             // 
-            this.btnDino.Location = new System.Drawing.Point(141, 243);
+            this.btnDino.Location = new System.Drawing.Point(141, 209);
             this.btnDino.Name = "btnDino";
             this.btnDino.Size = new System.Drawing.Size(148, 41);
             this.btnDino.TabIndex = 1;
@@ -59,7 +60,7 @@
             // 
             // btnPong
             // 
-            this.btnPong.Location = new System.Drawing.Point(141, 323);
+            this.btnPong.Location = new System.Drawing.Point(141, 270);
             this.btnPong.Name = "btnPong";
             this.btnPong.Size = new System.Drawing.Size(148, 41);
             this.btnPong.TabIndex = 2;
@@ -100,6 +101,16 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Made by daraco";
             // 
+            // btnMemory
+            // 
+            this.btnMemory.Location = new System.Drawing.Point(141, 334);
+            this.btnMemory.Name = "btnMemory";
+            this.btnMemory.Size = new System.Drawing.Size(148, 41);
+            this.btnMemory.TabIndex = 6;
+            this.btnMemory.Text = "Memory Game";
+            this.btnMemory.UseVisualStyleBackColor = true;
+            this.btnMemory.Click += new System.EventHandler(this.btnMemory_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -107,6 +118,7 @@
             this.BackColor = System.Drawing.Color.Lavender;
             this.BackgroundImage = global::RetroGameHub.Properties.Resources.background1;
             this.ClientSize = new System.Drawing.Size(434, 466);
+            this.Controls.Add(this.btnMemory);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -130,6 +142,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnMemory;
     }
 }
 

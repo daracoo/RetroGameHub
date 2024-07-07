@@ -43,5 +43,11 @@ namespace RetroGameHub
             Pong_Game pongGame = new Pong_Game();
             pongGame.Show();
         }
+
+        private void btnMemory_Click(object sender, EventArgs e)
+        {
+            Memory_Game memoryGame = new Memory_Game();
+            memoryGame.Show();
+        }
     }
 }
