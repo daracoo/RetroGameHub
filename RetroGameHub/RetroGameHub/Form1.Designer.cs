@@ -48,8 +48,9 @@
             this.btnDino.Name = "btnDino";
             this.btnDino.Size = new System.Drawing.Size(148, 41);
             this.btnDino.TabIndex = 1;
-            this.btnDino.Text = "Dino Run";
+            this.btnDino.Text = "T-Rex";
             this.btnDino.UseVisualStyleBackColor = true;
+            this.btnDino.Click += new System.EventHandler(this.btnDino_Click);
             // 
             // Form1
             // 

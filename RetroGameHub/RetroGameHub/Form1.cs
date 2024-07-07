@@ -31,5 +31,11 @@ namespace RetroGameHub
             Minesweeper minesweeper = new Minesweeper();
             minesweeper.Show();
         }
+
+        private void btnDino_Click(object sender, EventArgs e)
+        {
+            T_Rex trex = new T_Rex();
+            trex.Show();
+        }
     }
 }
