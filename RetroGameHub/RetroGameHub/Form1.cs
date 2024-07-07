@@ -37,5 +37,11 @@ namespace RetroGameHub
             T_Rex trex = new T_Rex();
             trex.Show();
         }
+
+        private void btnPong_Click(object sender, EventArgs e)
+        {
+            Pong_Game pongGame = new Pong_Game();
+            pongGame.Show();
+        }
     }
 }

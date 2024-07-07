@@ -10,3 +10,4 @@ C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGam
 C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.exe
 C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.pdb
 C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.T_Rex.resources
+C:\Users\Darko\Desktop\RetroGameHub\RetroGameHub\RetroGameHub\obj\Debug\RetroGameHub.Pong_Game.resources

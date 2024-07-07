@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(T_Rex));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tRex = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
@@ -107,6 +108,7 @@
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.tRex);
             this.Controls.Add(this.pictureBox1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "T_Rex";
             this.Text = "T-Rex";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.T_Rex_KeyDown);

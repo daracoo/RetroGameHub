@@ -91,6 +91,7 @@
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Minesweeper";
             this.Text = "Minesweeper";
             this.Load += new System.EventHandler(this.Minesweeper_Load);

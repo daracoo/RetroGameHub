@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Pong_Game));
             this.player = new System.Windows.Forms.PictureBox();
             this.computer = new System.Windows.Forms.PictureBox();
             this.ball = new System.Windows.Forms.PictureBox();
@@ -84,6 +85,7 @@
             this.Controls.Add(this.computer);
             this.Controls.Add(this.player);
             this.DoubleBuffered = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Pong_Game";
             this.Text = "Player: 0 -- Computer: 0";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Pong_Game_KeyDown);
